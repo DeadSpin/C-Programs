@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Date_Time
+{
+    class Program
+    {
+        public static void parameter(int num1, int num2, out int add, out int mul)
+        {
+            add = num1 + num2;
+            mul = num1 * num2;
+        }
+        static void Main(string[] args)
+        {
+            int num1, num2, add, mul;
+            DateTime now = DateTime.Now;     // For print current date and time
+            Console.WriteLine(now);
+            Console.WriteLine("1st Integer");
+            num1=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("2nd Integer");
+            num2 = Convert.ToInt32(Console.ReadLine());
+            Program.parameter(num1, num2, out add, out mul);  // calling parameter function
+            Console.WriteLine("Sum of both Integer is " + add);
+            Console.WriteLine("Multiple of both Integer is " + mul);
+            Console.ReadKey();
+
+       
+        }
+    }
+}
