@@ -1,0 +1,5 @@
+c:\users\sony\documents\visual studio 2012\Projects\pauseConsole\pauseConsole\bin\Debug\pauseConsole.exe.config
+c:\users\sony\documents\visual studio 2012\Projects\pauseConsole\pauseConsole\bin\Debug\pauseConsole.exe
+c:\users\sony\documents\visual studio 2012\Projects\pauseConsole\pauseConsole\bin\Debug\pauseConsole.pdb
+c:\users\sony\documents\visual studio 2012\Projects\pauseConsole\pauseConsole\obj\Debug\pauseConsole.exe
+c:\users\sony\documents\visual studio 2012\Projects\pauseConsole\pauseConsole\obj\Debug\pauseConsole.pdb

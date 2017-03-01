@@ -1,0 +1,5 @@
+c:\users\sony\documents\visual studio 2012\Projects\ReferenceDifference\ReferenceDifference\bin\Debug\ReferenceDifference.exe.config
+c:\users\sony\documents\visual studio 2012\Projects\ReferenceDifference\ReferenceDifference\bin\Debug\ReferenceDifference.exe
+c:\users\sony\documents\visual studio 2012\Projects\ReferenceDifference\ReferenceDifference\bin\Debug\ReferenceDifference.pdb
+c:\users\sony\documents\visual studio 2012\Projects\ReferenceDifference\ReferenceDifference\obj\Debug\ReferenceDifference.exe
+c:\users\sony\documents\visual studio 2012\Projects\ReferenceDifference\ReferenceDifference\obj\Debug\ReferenceDifference.pdb

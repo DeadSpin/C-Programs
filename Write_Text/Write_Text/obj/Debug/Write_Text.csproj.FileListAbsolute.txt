@@ -1,0 +1,5 @@
+c:\users\sony\documents\visual studio 2012\Projects\Write_Text\Write_Text\bin\Debug\Write_Text.exe.config
+c:\users\sony\documents\visual studio 2012\Projects\Write_Text\Write_Text\bin\Debug\Write_Text.exe
+c:\users\sony\documents\visual studio 2012\Projects\Write_Text\Write_Text\bin\Debug\Write_Text.pdb
+c:\users\sony\documents\visual studio 2012\Projects\Write_Text\Write_Text\obj\Debug\Write_Text.exe
+c:\users\sony\documents\visual studio 2012\Projects\Write_Text\Write_Text\obj\Debug\Write_Text.pdb

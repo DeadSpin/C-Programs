@@ -1,0 +1,12 @@
+c:\users\sony\documents\visual studio 2012\Projects\Reading_Text\Reading_Text\bin\Debug\Reading_Text.exe.config
+c:\users\sony\documents\visual studio 2012\Projects\Reading_Text\Reading_Text\bin\Debug\Reading_Text.exe
+c:\users\sony\documents\visual studio 2012\Projects\Reading_Text\Reading_Text\bin\Debug\Reading_Text.pdb
+c:\users\sony\documents\visual studio 2012\Projects\Reading_Text\Reading_Text\obj\Debug\Reading_Text.csprojResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2012\Projects\Reading_Text\Reading_Text\obj\Debug\Reading_Text.exe
+c:\users\sony\documents\visual studio 2012\Projects\Reading_Text\Reading_Text\obj\Debug\Reading_Text.pdb
+C:\Users\Dead$piN\Documents\Visual Studio 2012\Projects\Reading_Text\Reading_Text\bin\Debug\Reading_Text.exe.config
+C:\Users\Dead$piN\Documents\Visual Studio 2012\Projects\Reading_Text\Reading_Text\obj\Debug\Reading_Text.exe
+C:\Users\Dead$piN\Documents\Visual Studio 2012\Projects\Reading_Text\Reading_Text\obj\Debug\Reading_Text.pdb
+C:\Users\Dead$piN\Documents\Visual Studio 2012\Projects\Reading_Text\Reading_Text\bin\Debug\Reading_Text.exe
+C:\Users\Dead$piN\Documents\Visual Studio 2012\Projects\Reading_Text\Reading_Text\bin\Debug\Reading_Text.pdb
+C:\Users\Dead$piN\Documents\Visual Studio 2012\Projects\Reading_Text\Reading_Text\obj\Debug\Reading_Text.csprojResolveAssemblyReference.cache
