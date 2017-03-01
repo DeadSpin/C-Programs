@@ -1,0 +1,5 @@
+c:\users\sony\documents\visual studio 2012\Projects\Hierarchical_Inheritance\Hierarchical_Inheritance\bin\Debug\Hierarchical_Inheritance.exe.config
+c:\users\sony\documents\visual studio 2012\Projects\Hierarchical_Inheritance\Hierarchical_Inheritance\bin\Debug\Hierarchical_Inheritance.exe
+c:\users\sony\documents\visual studio 2012\Projects\Hierarchical_Inheritance\Hierarchical_Inheritance\bin\Debug\Hierarchical_Inheritance.pdb
+c:\users\sony\documents\visual studio 2012\Projects\Hierarchical_Inheritance\Hierarchical_Inheritance\obj\Debug\Hierarchical_Inheritance.exe
+c:\users\sony\documents\visual studio 2012\Projects\Hierarchical_Inheritance\Hierarchical_Inheritance\obj\Debug\Hierarchical_Inheritance.pdb

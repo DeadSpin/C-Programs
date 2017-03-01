@@ -1,0 +1,6 @@
+c:\users\sony\documents\visual studio 2012\Projects\2DArray\2DArray\bin\Debug\2DArray.exe.config
+c:\users\sony\documents\visual studio 2012\Projects\2DArray\2DArray\bin\Debug\2DArray.exe
+c:\users\sony\documents\visual studio 2012\Projects\2DArray\2DArray\bin\Debug\2DArray.pdb
+c:\users\sony\documents\visual studio 2012\Projects\2DArray\2DArray\obj\Debug\2DArray.csprojResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2012\Projects\2DArray\2DArray\obj\Debug\2DArray.exe
+c:\users\sony\documents\visual studio 2012\Projects\2DArray\2DArray\obj\Debug\2DArray.pdb

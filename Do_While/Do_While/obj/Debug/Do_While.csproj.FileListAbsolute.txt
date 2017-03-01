@@ -1,0 +1,10 @@
+c:\users\sony\documents\visual studio 2012\Projects\Do_While\Do_While\bin\Debug\Do_While.exe.config
+c:\users\sony\documents\visual studio 2012\Projects\Do_While\Do_While\bin\Debug\Do_While.exe
+c:\users\sony\documents\visual studio 2012\Projects\Do_While\Do_While\bin\Debug\Do_While.pdb
+c:\users\sony\documents\visual studio 2012\Projects\Do_While\Do_While\obj\Debug\Do_While.exe
+c:\users\sony\documents\visual studio 2012\Projects\Do_While\Do_While\obj\Debug\Do_While.pdb
+C:\Users\Dead$piN\Documents\Visual Studio 2012\Projects\Do_While\Do_While\bin\Debug\Do_While.exe.config
+C:\Users\Dead$piN\Documents\Visual Studio 2012\Projects\Do_While\Do_While\obj\Debug\Do_While.exe
+C:\Users\Dead$piN\Documents\Visual Studio 2012\Projects\Do_While\Do_While\obj\Debug\Do_While.pdb
+C:\Users\Dead$piN\Documents\Visual Studio 2012\Projects\Do_While\Do_While\bin\Debug\Do_While.exe
+C:\Users\Dead$piN\Documents\Visual Studio 2012\Projects\Do_While\Do_While\bin\Debug\Do_While.pdb
