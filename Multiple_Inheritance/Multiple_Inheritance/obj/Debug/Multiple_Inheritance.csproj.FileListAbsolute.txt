@@ -1,0 +1,6 @@
+c:\users\sony\documents\visual studio 2012\Projects\Multiple_Inheritance\Multiple_Inheritance\bin\Debug\Multiple_Inheritance.exe.config
+c:\users\sony\documents\visual studio 2012\Projects\Multiple_Inheritance\Multiple_Inheritance\bin\Debug\Multiple_Inheritance.exe
+c:\users\sony\documents\visual studio 2012\Projects\Multiple_Inheritance\Multiple_Inheritance\bin\Debug\Multiple_Inheritance.pdb
+c:\users\sony\documents\visual studio 2012\Projects\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\Multiple_Inheritance.csprojResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2012\Projects\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\Multiple_Inheritance.exe
+c:\users\sony\documents\visual studio 2012\Projects\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\Multiple_Inheritance.pdb

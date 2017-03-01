@@ -1,0 +1,5 @@
+c:\users\sony\documents\visual studio 2012\Projects\InputConsole\InputConsole\bin\Debug\InputConsole.exe.config
+c:\users\sony\documents\visual studio 2012\Projects\InputConsole\InputConsole\bin\Debug\InputConsole.exe
+c:\users\sony\documents\visual studio 2012\Projects\InputConsole\InputConsole\bin\Debug\InputConsole.pdb
+c:\users\sony\documents\visual studio 2012\Projects\InputConsole\InputConsole\obj\Debug\InputConsole.exe
+c:\users\sony\documents\visual studio 2012\Projects\InputConsole\InputConsole\obj\Debug\InputConsole.pdb

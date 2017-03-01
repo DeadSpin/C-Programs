@@ -1,0 +1,6 @@
+c:\users\sony\documents\visual studio 2012\Projects\Loop_Char\Loop_Char\bin\Debug\Loop_Char.exe.config
+c:\users\sony\documents\visual studio 2012\Projects\Loop_Char\Loop_Char\obj\Debug\Loop_Char.csprojResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2012\Projects\Loop_Char\Loop_Char\bin\Debug\Loop_Char.exe
+c:\users\sony\documents\visual studio 2012\Projects\Loop_Char\Loop_Char\bin\Debug\Loop_Char.pdb
+c:\users\sony\documents\visual studio 2012\Projects\Loop_Char\Loop_Char\obj\Debug\Loop_Char.exe
+c:\users\sony\documents\visual studio 2012\Projects\Loop_Char\Loop_Char\obj\Debug\Loop_Char.pdb
